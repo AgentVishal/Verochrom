@@ -184,3 +184,26 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+
+/* VeroChrom */ 
+
+.service-point{
+    padding-left: 30px;
+    line-height: 2;
+    list-style-type: disc;
+    font-size: 14px;
+    color: #666666;
+    line-height: 30px;
+}
+.cmo{
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 2;
+  margin-bottom: 0 !important;
+}
+
+
+
+
+
