@@ -243,7 +243,7 @@ header {
     transition: all 0.3s ease-in-out 0s;
 }
 header .navbar {
-	padding: 20px 0px;
+	padding: 0px 0px;
 }
 .background-header .navbar {
 	padding: 10px 0px;
@@ -644,6 +644,7 @@ ul.slick-dots {
 
 .more-info {
 	margin-top: 140px;
+	margin-bottom: 140px;
 }
 
 .more-info .left-image img {
