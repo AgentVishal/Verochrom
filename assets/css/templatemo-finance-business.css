@@ -270,6 +270,7 @@ header .navbar {
 .navbar .navbar-brand {
 	float: 	left;
 	outline: none;
+	padding-top: 0px;
 }
 .navbar .navbar-brand h2 {
 	color: #fff;
